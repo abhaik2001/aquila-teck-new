@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="60" viewBox="0 0 200 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Eagle Symbol -->
+  <path d="M30 10C21.7157 10 15 16.7157 15 25C15 33.2843 21.7157 40 30 40C38.2843 40 45 33.2843 45 25C45 16.7157 38.2843 10 30 10Z" fill="#0EA5E9"/>
+  <path d="M30 15C24.4772 15 20 19.4772 20 25C20 30.5228 24.4772 35 30 35C35.5228 35 40 30.5228 40 25C40 19.4772 35.5228 15 30 15Z" fill="white"/>
+  <path d="M30 18C26.134 18 23 21.134 23 25C23 28.866 26.134 32 30 32C33.866 32 37 28.866 37 25C37 21.134 33.866 18 30 18Z" fill="#0EA5E9"/>
+  <path d="M30 22C28.3431 22 27 23.3431 27 25C27 26.6569 28.3431 28 30 28C31.6569 28 33 26.6569 33 25C33 23.3431 31.6569 22 30 22Z" fill="white"/>
+  
+  <!-- Wings -->
+  <path d="M45 25C45 25 55 15 65 25M15 25C15 25 5 15 -5 25" stroke="#0EA5E9" stroke-width="2"/>
+  
+  <!-- Text: Aquila Teck -->
+  <text x="60" y="30" font-family="Montserrat, sans-serif" font-weight="700" font-size="18" fill="#111827">
+    Aquila Teck
+  </text>
+</svg>
